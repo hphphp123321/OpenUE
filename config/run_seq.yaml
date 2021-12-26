@@ -1,5 +1,5 @@
 accumulate_grad_batches: 1
-batch_size: 16
+batch_size: 128
 check_val_every_n_epoch: 1
 checkpoint_callback: true
 data_class: REDataset
